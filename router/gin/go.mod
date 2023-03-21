@@ -14,6 +14,6 @@ require (
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/rogpeppe/go-internal v1.8.1 // indirect
 	github.com/ugorji/go v1.2.6 // indirect
-	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	k8s.io/utils v0.0.0-20211208161948-7d6a63dca704 // indirect
 )
